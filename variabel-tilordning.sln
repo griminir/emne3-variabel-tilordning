@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variabel-tilordning", "variabel-tilordning\variabel-tilordning.csproj", "{D1F0DACF-37DD-4F0B-B34F-4E2661F6A43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F0DACF-37DD-4F0B-B34F-4E2661F6A43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F0DACF-37DD-4F0B-B34F-4E2661F6A43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F0DACF-37DD-4F0B-B34F-4E2661F6A43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F0DACF-37DD-4F0B-B34F-4E2661F6A43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB3546B-C897-4645-A605-8DDBD18727E0}
+	EndGlobalSection
+EndGlobal
